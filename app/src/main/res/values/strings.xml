@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Barrineau_9_6</string>
+    <string name="descrPan">Image of an miner\'s pan, used to pan small amounts of gold from the soil </string>
+    <string name="descrDigger">Image of an digging tool, useful to penetrate the Earth\'s soil</string>
+    <string name="descrVial">An Image of a glass vial, used to store the found gold</string>
+    <string name="txtVial">A glass vial, used to store the found gold</string>
+    <string name="txtDigger">Knife sized digging tool, useful to penetrate the Earth\'s soil</string>
+    <string name="txtPan">Miner\'s pan, used to pan small amounts of gold from the soil </string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="txtHaile">Historic Haile Gold Mine</string>
+    <string name="haileInfo">Discovered in 1827 by Benjamin Haile, The Haile Gold Mine was one of the first – and most profitable – operating gold mines in the U.S.
+        The Haile Operation is located 3 miles northeast of the town of Kershaw in Lancaster County, South Carolina.
+        Haile’s mining operations includes approximately 4,552 acres of land that over nearly two centuries has had multiple waves of mining activity.
+    </string>
+    <string name="descrSluice">Image of a small scale sluice box often placed inside rivers and stream</string>
+</resources>

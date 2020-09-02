@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <TableRow>
+        <ImageView
+            android:id="@+id/imgBike"
+            android:contentDescription="@string/descrPan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pan"
+            android:padding="10sp" />
+        <TextView
+            android:layout_width="650dp"
+            android:layout_height="wrap_content"
+            android:text="@string/txtPan"
+            android:textSize="30sp"/>
+    </TableRow>
+    <TableRow>
+        <ImageView
+            android:id="@+id/imgBarge"
+            android:contentDescription="@string/descrDigger"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/digger"
+            android:paddingRight="10sp" />
+        <TextView
+            android:layout_width="650dp"
+            android:layout_height="wrap_content"
+            android:text="@string/txtDigger"
+            android:textSize="30sp"
+            android:paddingRight="15sp"/>
+    </TableRow>
+    <TableRow>
+        <ImageView
+            android:id="@+id/imgBudapest"
+            android:contentDescription="@string/descrVial"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/vial"
+            android:padding="10sp" />
+        <TextView
+            android:layout_width="650dp"
+            android:layout_height="wrap_content"
+            android:text="@string/txtVial"
+            android:textSize="30sp"/>
+    </TableRow>
+
+</TableLayout>
